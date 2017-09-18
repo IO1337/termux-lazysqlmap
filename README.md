@@ -21,7 +21,7 @@ Clone / Download this repository from your terminal
 
 Get in directory 
 
-> cd lazysqlmap
+> cd termux-lazysqlmap
 
 Give Access Permission for install.sh
 
