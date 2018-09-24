@@ -49,4 +49,6 @@ Regard
 
 Yukinoshita 47 Team Garuda Security Hacker  |  V3rluchie Team Blood Tears No Team Squad
 
-http://garudasecurityhacker.org | http://sqlmap.org | http://www.squad-cyber.ga
+http://garudasecurityhacker.org | http://sqlmap.org | http://www.squadcyber.com
+# For other tutorials
+https://www.squadcyber.com/
